@@ -1,2 +1,2 @@
 # String.h
-Realisation of string.h library c
+Реализация стандартной библиотеки string.h на языке си
